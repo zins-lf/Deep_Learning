@@ -1,9 +1,9 @@
-## Setup
+## Setup - Work Flow
 
 # Prerequisites
 
-1. **Create a GitHub Account**  
-   If you don't already have an account, sign up at [GitHub](https://github.com/).
+1. **GitHub Account**  
+   If you don't already have an account, sign up for free at [GitHub](https://github.com/).
 
 2. **PC Requirements** 
      - Operating System: Mac 10.12/10.13/10.14, Linux or Windows 10  
